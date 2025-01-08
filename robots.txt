@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://kings1990.github.io/develop-blog/develop-blog/sitemap.xml
